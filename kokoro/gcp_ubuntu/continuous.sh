@@ -1,5 +1,5 @@
 #!/bin/bash
 set -ex
 ls
-cd git/kokoro-codelab-selgamal
+cd github/kokoro-codelab-selgamal
 ./build.sh
